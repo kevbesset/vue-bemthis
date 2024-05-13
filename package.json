@@ -1,0 +1,39 @@
+{
+  "name": "vue-bemthis",
+  "version": "1.0.0",
+  "description": "A simple utility for conditionally creating classes in BEM methodology, vue compatible for module styles",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevbesset/vue-bemthis.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "scss",
+    "class",
+    "className",
+    "classNames",
+    "classes",
+    "javascript",
+    "vue",
+    "bem",
+    "getbem",
+    "bemthis",
+    "scoped"
+  ],
+  "author": "Kevin Besset",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevbesset/vue-bemthis/issues"
+  },
+  "homepage": "https://github.com/kevbesset/vue-bemthis#readme",
+  "devDependencies": {
+    "vue": "^3.4.27"
+  }
+}
